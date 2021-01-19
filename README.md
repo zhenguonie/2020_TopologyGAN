@@ -1,4 +1,4 @@
 # TopologyGAN
 TopologyGAN: Topology Optimization Using Generative Adversarial Networks Based on Physical Fields Over the Initial Domain
 
-Webpage IS In Building.
+Dataset is quite large, and will be shared soon!
