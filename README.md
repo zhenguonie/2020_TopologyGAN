@@ -8,6 +8,5 @@ https://mega.nz/folder/XCIyxT7a#tCWcfzTGMtoiNaZsUOYBaQ
 
 
 
-Zhenguo Nie
-Tsinghua University
-zhenguonie@tsinghua.edu.cn
+Please contact me if any problems:
+Zhenguo Nie, Tsinghua University, zhenguonie@tsinghua.edu.cn
